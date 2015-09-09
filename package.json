@@ -30,6 +30,7 @@
   "dependencies": {
     "async": "~1.4.2",
     "buffer-crc32": "~0.2.1",
+    "express": "^4.13.3",
     "glob": "~5.0.0",
     "lazystream": "~0.1.0",
     "lodash": "~3.10.0",
